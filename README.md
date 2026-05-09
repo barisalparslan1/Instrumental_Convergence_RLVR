@@ -1,6 +1,6 @@
-# InstrumentalEval × OLMo-3
+# InstrumentalEval × Olmo-3
 
-Evaluates **instrumental convergence behaviors** across OLMo-3's post-training checkpoints (SFT, DPO, RLVR + step-wise RLVR snapshots) on the InstrumentalEval benchmark (He et al., 2025 — arXiv:2502.12206).
+Evaluates **instrumental convergence behaviors** across Olmo-3's post-training checkpoints (SFT, DPO, RLVR + step-wise RLVR snapshots) on the InstrumentalEval benchmark (He et al., 2025 — arXiv:2502.12206).
 
 ## Layout
 
