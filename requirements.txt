@@ -1,0 +1,17 @@
+transformers>=4.57.0
+accelerate
+bitsandbytes
+torch
+openai
+google-generativeai
+huggingface_hub
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+nest_asyncio
+openpyxl
+python-dotenv
